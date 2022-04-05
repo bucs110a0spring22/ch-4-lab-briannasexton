@@ -8,16 +8,16 @@ _Replace anything surrounded by the `< >` symbols._
 ## SUMMARY:
 What did you clean up?: Any code written in global space was put into functions (naming turtle). Docstrings were also added for all functions except for main.
 
-Summary of function(s) added:
+Summary of function(s) added: guessNumber function asks user to input the number of graphs drawn. If the user is correct, the function prints true
 
-Summary of Feature Added:
+Summary of Feature Added: at end of guessing game, a multicolor star is drawn
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ N/A
 
 ## REFERENCES:
- < List any outside resources used >
+ stackoverflow.com
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ N/A
 
