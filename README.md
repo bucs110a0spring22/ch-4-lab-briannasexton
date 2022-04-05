@@ -1,25 +1,23 @@
 #### CS 110
-# Chapter 4 - Lab - Functions
-
-### [Assignment Description](https://docs.google.com/document/d/1V20D_upUX4MO8YmskKlRB25Yu2pCEv3-h8z4EAfrSno/edit?usp=sharing)
+# Midterm - Python Programming
 
 ***
 
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- This program draws then functions sine, cosine, and tangent on a drawn axis.
+What did you clean up?: Any code written in global space was put into functions (naming turtle). Docstrings were also added for all functions except for main.
 
-## GRACE DAYS
-Grace days used for this assignment: 0
+Summary of function(s) added:
 
-Grace days remaining: 5/5
+Summary of Feature Added:
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- N/A
+ < What parts of the project you were not able to complete >
 
 ## REFERENCES:
-https://stackoverflow.com/questions/20918749/how-to-draw-sine-in-python-turtle)
+ < List any outside resources used >
 
 ## MISCELLANEOUS COMMENTS:
- N/A
+ < Anything you would like the grader to know >
+
